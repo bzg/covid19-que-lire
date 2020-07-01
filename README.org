@@ -1,3 +1,5 @@
 #+title: covid19-que-lire.fr
 
 Ce dépôt archive les contenus partagés sur [[https://www.covid19-que-lire.fr]] pendant le plus fort de la pandémie Covid-19 au printemps 2020.
+
+Les liens sont lisibles sur [[file:links.org][cette page]] dans l'ordre chronologique inverse (le plus récent en premier).
