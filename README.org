@@ -1,0 +1,3 @@
+#+title: covid19-que-lire.fr
+
+Ce dépôt archive les contenus partagés sur [[https://www.covid19-que-lire.fr]] pendant le plus fort de la pandémie Covid-19 au printemps 2020.
